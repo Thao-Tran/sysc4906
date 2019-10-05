@@ -1,2 +1,2 @@
-# sysc4906
-Machine learning course
+# SYSC4906
+Assignments for Carleton University machine learning course.
